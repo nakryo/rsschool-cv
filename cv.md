@@ -1,5 +1,5 @@
 # rsschool-cv
-## Hanna Voloshyna
+## Voronkov Stepan
 ### Junior Frontend Developer
 
 #### Contact information:
